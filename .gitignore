@@ -33,8 +33,6 @@
 get_changed_files.sh
 *.lock
 *.g.dart
-.idea
-
 # Web related
 lib/generated_plugin_registrant.dart
 
